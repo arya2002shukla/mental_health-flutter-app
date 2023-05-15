@@ -26,5 +26,7 @@ samples, guidance on mobile development, and a full API reference.
   }
 </style>
 <div>
-  <img src="C:\Users\HP\Downloads\WhatsApp Image 2023-05-14 at 12.57.01 PM (2).jpeg" alt="App Screenshot" class="app-img">
+  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/ce909a39-7d5a-4420-a90b-53248e313940" alt="App Screenshot" class="app-img">
 </div>
+
+![WhatsApp Image 2023-05-14 at 12 57 01 PM (2)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/ce909a39-7d5a-4420-a90b-53248e313940)
