@@ -26,5 +26,5 @@ samples, guidance on mobile development, and a full API reference.
   }
 </style>
 <div>
-  <img src="WhatsApp Image 2023-05-14 at 12.57.01 PM (2)" alt="App Screenshot" class="app-img">
+  <img src="C:\Users\HP\Downloads\WhatsApp Image 2023-05-14 at 12.57.01 PM (2).jpeg" alt="App Screenshot" class="app-img">
 </div>
