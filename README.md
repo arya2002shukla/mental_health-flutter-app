@@ -25,36 +25,13 @@ samples, guidance on mobile development, and a full API reference.
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 </style>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/ce909a39-7d5a-4420-a90b-53248e313940" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/a5bd34e0-c1f1-4a96-95be-c49dcd71903b" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/1fa797f2-217e-4222-a786-ce9c6a46363b" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/4fc9020d-c222-4fc9-a865-ed2997692aca" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/ce909a39-7d5a-4420-a90b-53248e313940" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/b88c30a5-6341-4f53-a8e6-e849d9ccf0a4)" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/a609f7e0-29ee-4075-a4ee-8d93b8671dd0" alt="App Screenshot" class="app-img">
-</div>
-<div>
-  <img src="" class="app-img">
-</div>
-<div>
-  <img src="https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/ce909a39-7d5a-4420-a90b-53248e313940" alt="App Screenshot" class="app-img">
-</div>
-
-<!-- ![WhatsApp Image 2023-05-14 at 12 57 00 PM (1)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/6cba9fdf-9be5-4f05-8078-b61a1709d501)
-![WhatsApp Image 2023-05-14 at 12 57 00 PM](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/d4dde9f6-627a-416a-a8d0-357ddde7f56d)
-![WhatsApp Image 2023-05-14 at 12 56 59 PM (2)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/a3688582-9cfa-450d-bd9e-ac8a81aa08aa)
-
+https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/7112390e-eeb3-476b-b61a-951cd363a1a4
+<!-- ![WhatsApp Image 2023-05-14 at 12 57 00 PM (2)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/8b09a483-4e0e-41b3-8b3b-ef6ecd0ca6a7)
+![WhatsApp Image 2023-05-14 at 12 57 00 PM (1)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/5d18e044-a4f1-4061-9aa5-deb1f414f4d7)
+![WhatsApp Image 2023-05-14 at 12 57 00 PM](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/0f60aad7-6509-487a-b3b0-e1d6d0c1cb7b)
+![WhatsApp Image 2023-05-14 at 12 56 59 PM (2)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/4b28a8ec-b88a-4ad9-8c31-34c84b3d5361)
+![WhatsApp Image 2023-05-14 at 12 56 59 PM (1)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/0e78017d-aeeb-4249-a872-d88531b4adab)
+![WhatsApp Image 2023-05-14 at 12 56 59 PM](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/126b9173-8745-4a39-ba50-9108ee5ff691)
+![WhatsApp Image 2023-05-14 at 12 57 01 PM (2)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/4ba4f591-b560-404b-9167-370b48923a3c)
+![WhatsApp Image 2023-05-14 at 12 57 01 PM (1)](https://github.com/arya2002shukla/mental_health-flutter-app/assets/85741754/15ca2eb6-b334-4731-bc45-0e2c13acdddc)
  -->
