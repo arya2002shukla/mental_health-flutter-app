@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:mental_health/util/constant.dart';
 import 'package:http/http.dart' as http;
 
+
 Future<String> generateResponse(String prompt) async {
   const apiKey = apiSecretKey;
 
